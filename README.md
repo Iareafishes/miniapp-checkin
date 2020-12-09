@@ -1,5 +1,5 @@
 # miniapp-checkin
-a checkin system for students studying in library
+a checkin system for monitoring students studying in library
 
 # Release
 二酱自习人  
